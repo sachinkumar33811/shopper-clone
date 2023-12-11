@@ -129,6 +129,10 @@ li:hover{
   margin-block: 20px;
   gap: 5px;
 }
+.airpod:hover{
+  transform: translatey(-60px);
+  transition: all 2s ease-in;
+}
 .applebar{
   align-items: center;
   margin-left: 30px;
@@ -277,6 +281,10 @@ font-weight: 700;
   display: flex;
   height: 200px;
   width: 50%;
+}
+.leftpic:hover{
+  transform: translatey(-60px);
+  transition: all 2s ease-in;
 }
 .opd{
   padding: 50px;
